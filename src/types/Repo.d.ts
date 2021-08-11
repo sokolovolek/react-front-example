@@ -11,6 +11,7 @@ interface ReposListForksResponseItem {
   commits_url: string;
   compare_url: string;
   contents_url: string;
+  testuser_url: string;
   contributors_url: string;
   created_at: string;
   default_branch: string;
